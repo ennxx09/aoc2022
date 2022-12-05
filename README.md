@@ -1,3 +1,4 @@
 # aoc2022
 
-https://replit.com/@ennxx09/aoc2022#main.cpp
+hello, i am en xin, (a.k.a. "ruu" on discord)
+i am not great at coding and digest slower and less than others so forgive me in my code is still wonky and has many mistakes :O
